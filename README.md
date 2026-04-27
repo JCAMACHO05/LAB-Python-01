@@ -324,8 +324,27 @@ else:
 
 ## Retrospectiva
 1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+El tiempo total invertido fue de aproximadamente 5 horas/hombre, distribuidas entre el análisis de los enunciados, la implementación del código, la depuración de errores y la validación de resultados.
 2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+El laboratorio se encuentra completado y funcional, ya que se lograron implementar todos los requerimientos planteados. Además, el código fue probado con distintos casos de entrada, verificando su correcto funcionamiento y manejo de errores básicos.
 3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+El mayor logro fue la integración de múltiples conceptos de programación, como estructuras de datos (listas, diccionarios, tuplas), control de flujo (condicionales y ciclos) y consumo de APIs. Esto permitió desarrollar soluciones más completas y cercanas a aplicaciones reales
 4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+El principal problema técnico fue el manejo de errores en la entrada de datos, especialmente al convertir valores ingresados por el usuario (por ejemplo, de texto a números).
+Para resolverlo, se implementaron bloques try-except, lo que permitió validar las entradas y evitar que el programa se detuviera inesperadamente.
 5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Aunque el trabajo fue realizado de manera individual, se destacó una buena organización del proceso, abordando cada ejercicio de forma progresiva y probando el código constantemente.
+
+Como mejora, se propone:
+
+Modularizar el código usando funciones
+Mejorar la legibilidad con comentarios más claros
+Aplicar mejores prácticas de programación
 6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+Se utilizaron las siguientes referencias:
+
+Python Software Foundation. (2024). Python Documentation. Disponible en: https://docs.python.org/3/
+PokeAPI. (2024). Pokémon API. Disponible en: https://pokeapi.co/
+JSONPlaceholder. (2024). Fake Online REST API. Disponible en: https://jsonplaceholder.typicode.com/
+
+La referencia más útil fue la documentación oficial de Python, ya que permitió comprender el uso correcto de estructuras de datos, funciones y manejo de errores.
